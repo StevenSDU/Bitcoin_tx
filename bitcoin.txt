@@ -1,0 +1,16 @@
+{
+  "name": "BTC.main",
+  "height": 747299,
+  "hash": "00000000000000000006670ff525772b2fda17d39b5d827c63e4f4fc64dd7a3d",
+  "time": "2022-07-31T03:14:35.526174702Z",
+  "latest_url": "https://api.blockcypher.com/v1/btc/main/blocks/00000000000000000006670ff525772b2fda17d39b5d827c63e4f4fc64dd7a3d",
+  "previous_hash": "000000000000000000011663b2e30b4a4ee41c51d72d725f3c19136b084a4d6f",
+  "previous_url": "https://api.blockcypher.com/v1/btc/main/blocks/000000000000000000011663b2e30b4a4ee41c51d72d725f3c19136b084a4d6f",
+  "peer_count": 1045,
+  "unconfirmed_count": 2132,
+  "high_fee_per_kb": 17514,
+  "medium_fee_per_kb": 8165,
+  "low_fee_per_kb": 4863,
+  "last_fork_height": 730848,
+  "last_fork_hash": "000000000000000000029ec31578132d01696910f299f8d104f29b8f8bbdc24f"
+}
